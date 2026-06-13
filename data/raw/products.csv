@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+PROD001,Example,Sports,3030.29
+PROD002,Time,Books,4836.46
+PROD003,Responsibility,Books,3409.69
+PROD004,Back,Fashion,4581.21
+PROD005,This,Fashion,4312.84
+PROD006,Social,Fashion,2613.07
+PROD007,Say,Home Appliances,2940.67
+PROD008,Here,Fashion,3501.11
+PROD009,Player,Fashion,4497.77
+PROD010,Practice,Sports,2207.75
+PROD011,Want,Electronics,3587.42
+PROD012,Coach,Fashion,3111.97
+PROD013,Relate,Electronics,3626.42
+PROD014,Behavior,Fashion,4771.97
+PROD015,Over,Books,852.24
+PROD016,Oil,Fashion,4185.21
+PROD017,Newspaper,Electronics,2315.35
+PROD018,Present,Electronics,1170.25
+PROD019,Catch,Books,3024.12
+PROD020,Church,Books,2060.19
+PROD021,Picture,Books,1691.02
+PROD022,Picture,Electronics,3997.46
+PROD023,Action,Home Appliances,4665.82
+PROD024,House,Home Appliances,4951.51
+PROD025,Son,Sports,2989.59
+PROD026,Central,Home Appliances,2651.04
+PROD027,Hundred,Electronics,2133.12
+PROD028,Rise,Books,3772.9
+PROD029,Growth,Sports,1741.34
+PROD030,Yet,Fashion,4135.01
+PROD031,Before,Home Appliances,653.98
+PROD032,Assume,Electronics,4074.67
+PROD033,Human,Electronics,1535.47
+PROD034,Say,Home Appliances,4906.88
+PROD035,Though,Electronics,3543.0
+PROD036,Prepare,Books,2618.2
+PROD037,Among,Home Appliances,4961.47
+PROD038,Religious,Home Appliances,4323.98
+PROD039,However,Sports,1750.66
+PROD040,Option,Home Appliances,2009.31
+PROD041,Have,Sports,1364.15
+PROD042,Chance,Books,2422.3
+PROD043,Protect,Electronics,1374.01
+PROD044,System,Sports,4381.65
+PROD045,Term,Books,3242.62
+PROD046,Direction,Electronics,3163.05
+PROD047,Player,Books,3508.18
+PROD048,Develop,Fashion,1852.65
+PROD049,Later,Fashion,3032.02
+PROD050,Daughter,Sports,780.29

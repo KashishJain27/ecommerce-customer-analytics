@@ -19,20 +19,32 @@ This project simulates an e-commerce business environment by generating customer
 
 ecommerce_customer_analytics/
 
-├── data/
-
-│   ├── raw/
-
-│   └── processed/
-
-├── images/
-
-├── powerbi/
-
-├── python/
-
-├── sql/
-
+retail-supply-chain-analytics
+│
+├── data
+│   ├── raw
+│   │   ├── customers.csv
+│   │   ├── products.csv
+│   │   ├── payments.csv
+│   │   ├── reviews.csv
+│   │   └── orders.csv
+│   │
+│   └── processed
+│       └── orders_cleaned.csv
+│
+├── python
+│   ├── generate_dataset.py
+│
+├── sql
+│   ├── schema.sql
+│   └── analysis_queries.sql
+│
+├── powerbi
+│   └── Ecommerce_Customer_Analytics.pbix
+│
+├── images
+│   └── dashboard_ecommerce.png
+│
 └── README.md
 
 ## Datasets

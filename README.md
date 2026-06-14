@@ -1,6 +1,6 @@
 # E-Commerce Customer Analytics
-
 End-to-end E-Commerce Customer Analytics project using Python, MySQL, Power BI, and GitHub. The project analyzes customer purchasing behavior, product performance, payment trends, and business revenue through data generation, SQL analysis, and interactive dashboards.
+![Dashboard](images/dashboard_ecommerce.png)
 
 ## Project Overview
 

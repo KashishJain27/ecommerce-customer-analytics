@@ -178,3 +178,14 @@ reviews_df.to_csv(
 )
 
 print("reviews.csv created successfully!")
+
+orders_cleaned = orders_df.copy()
+
+orders_cleaned["order_date"] = pd.to_datetime(
+    orders_cleaned["order_date"]
+)
+
+orders_cleaned.to_csv(
+    "data/processed/orders_cleaned.csv",
+    index=False
+)

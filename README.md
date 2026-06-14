@@ -17,23 +17,24 @@ This project simulates an e-commerce business environment by generating customer
 
 ## Project Structure
 
-ecommerce_customer_analytics/
+## Project Structure
 
-retail-supply-chain-analytics
+```
+ecommerce_customer_analytics/
 │
 ├── data
 │   ├── raw
 │   │   ├── customers.csv
 │   │   ├── products.csv
+│   │   ├── orders.csv
 │   │   ├── payments.csv
-│   │   ├── reviews.csv
-│   │   └── orders.csv
+│   │   └── reviews.csv
 │   │
 │   └── processed
 │       └── orders_cleaned.csv
 │
 ├── python
-│   ├── generate_dataset.py
+│   └── generate_dataset.py
 │
 ├── sql
 │   ├── schema.sql
@@ -46,6 +47,7 @@ retail-supply-chain-analytics
 │   └── dashboard_ecommerce.png
 │
 └── README.md
+```
 
 ## Datasets
 
